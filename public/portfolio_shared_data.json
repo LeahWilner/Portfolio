@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Leah Wilner",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/LeahWilner/Portfolio.git",
           "class": "fab fa-github"
         },
         {
